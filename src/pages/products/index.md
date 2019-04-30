@@ -102,5 +102,10 @@ pricing:
         - dfsdfsdfsdfs
       plan: Custom2
       price: '700'
+    - description: alsdkjfalkdjfl
+      items:
+        - lsfkjlkadjafdsf
+      plan: Custome3
+      price: '29128379182374'
 ---
 
